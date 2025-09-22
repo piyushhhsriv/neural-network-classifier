@@ -1,4 +1,4 @@
-# Neural Network Classifier: Letters A, B, and C
+# 👨🏻‍💻Neural Network Classifier: Letters A, B, and C
 
 ## Overview
 
@@ -11,18 +11,18 @@ This project implements a simple feedforward neural network from scratch using o
 - **Training:** The network is trained to minimize cross-entropy loss, tracking accuracy and loss over epochs.
 - **Visualization:** Training curves and letter predictions shown via `matplotlib`.
 
-## Key Files
+## 📁Key Files
 
 - `neural_network_letters.ipynb`: Main code notebook for model, training, and testing.
 
-## Key Findings
+## 📝Key Findings
 
 - The neural network can successfully learn to distinguish between the letters A, B, and C from their pixelated representations.
 - Visualizing loss and accuracy demonstrates effective learning.
 
 ---
 
-## How to Run
+## 💡How to Run
 
 1. Clone this repo.
 2. Open `neural_network_letters.ipynb` in Jupyter Notebook.
