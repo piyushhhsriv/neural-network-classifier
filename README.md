@@ -32,4 +32,4 @@ This project implements a simple feedforward neural network from scratch using o
 
 ## Author
 
-*Your Name* | [GitHub](https://github.com/yourprofile)
+*Piyush Srivastava* | [GitHub](https://github.com/yourprofile)
