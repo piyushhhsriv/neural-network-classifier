@@ -1,10 +1,10 @@
 # 👨🏻‍💻Neural Network Classifier: Letters A, B, and C
 
-## Overview
+## 🧾Overview
 
 This project implements a simple feedforward neural network from scratch using only NumPy, to classify binary 5×6 images of the capital letters A, B, and C. The purpose is to gain hands-on practice with neural network fundamentals such as forward propagation, backpropagation, weight updates, and performance metrics without relying on machine learning libraries.
 
-## Approach
+## 📌Approach
 
 - **Data Preparation:** Each letter (A, B, C) is encoded as a binary 5×6 pattern, flattened to a 30-length vector.
 - **Neural Network:** 1 hidden layer, sigmoid activations, trained via backpropagation.
